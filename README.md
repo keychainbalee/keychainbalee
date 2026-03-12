@@ -72,9 +72,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  /> <br>
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  /> 
   <img width="12" /> 
-  <img src="https://skillicons.dev/icons?i=next" height="40" alt="next logo"  /> <br>
+  <img src="https://skillicons.dev/icons?i=next" height="40" alt="next logo"  /><br>
   <img width="12" /> 
 </div>
 <!--

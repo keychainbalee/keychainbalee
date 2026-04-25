@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">- 🔭 A student who is studying about the world of information systems<br>- 📚 My interest in the world of technology has grown over time, especially in understanding how information systems work and are applied in everyday life.</p>
+<p align="left">- 🔭 A student who is studying about the world of information technology<br>- 📚 My interest in the world of technology has grown over time, especially in understanding how information systems work and are applied in everyday life.</p>
 
 ###
 

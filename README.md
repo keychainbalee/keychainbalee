@@ -68,7 +68,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
 </div> -->
-<div align="left">
+<!-- <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  />
@@ -83,7 +83,7 @@
   <img width="12" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  /><br>
   <img width="12" />
-</div>
+</div> -->
 <!--
 ###
 <br clear="both">

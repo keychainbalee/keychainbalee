@@ -19,7 +19,7 @@
 
 ###
 
-<!-- <h3 align="center">🖥️ Learning Tech Stack</h3>  -->
+<h3 align="center">🖥️ Learning Tech Stack</h3> 
 
 ###
 <!--
@@ -28,7 +28,7 @@
 
 ###
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  />
@@ -43,7 +43,7 @@
   <img width="12" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  /><br>
   <img width="12" />
-</div>  -->
+</div>  
 
 <div align="center">
   <a href="https://www.linkedin.com/in/miqbalptr/" target="_blank">
@@ -58,7 +58,7 @@
 </div>
 
 <div align="center">
-  <img height="170" src="https://media1.tenor.com/m/DJJogP4rg6wAAAAd/madagascar-private.gif"  />
+  <img height="170" src="https://media1.tenor.com/m/TIEiN81CIu0AAAAC/robin-believe.gif"  />
 </div>
 
 

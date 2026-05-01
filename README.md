@@ -58,7 +58,7 @@
 </div>
 
 <div align="center">
-  <img height="170" src="https://media.tenor.com/0dgOsklBXUcAAAAi/dm4uz3-foekoe.gif](https://media1.tenor.com/m/DJJogP4rg6wAAAAd/madagascar-private.gif"  />
+  <img height="170" src="https://media1.tenor.com/m/DJJogP4rg6wAAAAd/madagascar-private.gif"  />
 </div>
 
 

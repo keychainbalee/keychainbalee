@@ -19,7 +19,7 @@
 
 ###
 
-<h3 align="center">🖥️ Learning Tech Stack</h3> 
+<!-- <h3 align="center">🖥️ Learning Tech Stack</h3>  -->
 
 ###
 <!--
